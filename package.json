@@ -1,0 +1,25 @@
+{
+  "name": "converter",
+  "version": "1.0.0",
+  "description": "this is a mashroom converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zenosu/marioluigimushroom.git"
+  },
+  "keywords": [
+    "mario!"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zenosu/marioluigimushroom/issues"
+  },
+  "homepage": "https://github.com/zenosu/marioluigimushroom#readme",
+  "dependencies": {
+    "pad": "^1.0.0"
+  }
+}
